@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"net/http"
-	"Praktikum/configs"
-	"Praktikum/model"
+	"docker/configs"
+	"docker/model"
 	"strconv"
 	"github.com/labstack/echo/v4"
 )

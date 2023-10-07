@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Praktikum/configs"
-	"Praktikum/routes"
+	"docker/configs"
+	"docker/routes"
 )
 
 func main (){

@@ -1,8 +1,8 @@
 package helper
 
 import (
-	"Praktikum/configs"
-	"Praktikum/model"
+	"docker/configs"
+	"docker/model"
 )
 
 func AuthDB(Name string, Password string)(bool, error){

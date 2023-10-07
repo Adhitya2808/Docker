@@ -1,7 +1,7 @@
 package configs
 
 import (
-    "Praktikum/model"
+    "docker/model"
     "fmt"
     "gorm.io/driver/mysql"
     "gorm.io/gorm"

@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"Praktikum/controllers"
-	h "Praktikum/helper"
+	"docker/controllers"
+	h "docker/helper"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo-jwt/v4"
 )

@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"Praktikum/configs"
-	m "Praktikum/helper"
-	"Praktikum/model"
+	"docker/configs"
+	m "docker/helper"
+	"docker/model"
 	"net/http"
 	"strconv"
 
